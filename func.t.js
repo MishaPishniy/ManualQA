@@ -23,3 +23,6 @@ const pow = function (number) {
   //аргумент
   greet('Anna')
   greet()
+ 
+
+  новая ветка 
