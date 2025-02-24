@@ -6,11 +6,7 @@ function calculateParam (a ,b ,c ) {
     return sum
 }
 
-
-
-
-const result2 = calculateParam(5,7,8)
-console.log(result2)
+НОвий код 
 
 
 const pow = function (number) {
@@ -20,14 +16,7 @@ const pow = function (number) {
 
   const pow2 = (number2) =>  number ** 2;
 
-  function pow3 (number3){
-    const sum2 = number3 **2
-    return sum2
-  }
-
-
-  //параметр
-  function greet(name = 'guest') {
+  me = 'guest') {
     console.log(`Hello, ${name}`)
   }
 
