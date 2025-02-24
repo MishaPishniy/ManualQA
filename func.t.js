@@ -8,7 +8,7 @@ function calculateParam (a ,b ,c ) {
 
 НОвий код 
 
-
+нгошдоршггш геенкегшошг
 const pow = function (number) {
     return number ** 2;
   }
