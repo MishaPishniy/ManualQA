@@ -1,0 +1,32 @@
+h6 { 
+
+color: maroon;
+font-size: 30px;
+}
+
+
+p { 
+
+color: fuchsia;
+font-size: 15px;
+
+}
+
+.highlight {
+
+width: 300px;
+height: 150px;
+border: 2px solid black;
+
+}
+
+#main-title {
+    font-size: 24px;
+}
+
+
+#output {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #007bff;
+}

@@ -1,0 +1,20 @@
+.conainer {
+widht: 80% ;
+text-align: center;
+}
+
+.red-text{
+color: red;
+font-size:24px;
+font-family: Arial, sans-serif;
+}
+
+p[data-special="true"] {
+	color: blue;
+	background-color: yellow;
+}
+
+
+p[data-special] {
+	color: blue;
+}
