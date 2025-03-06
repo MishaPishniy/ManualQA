@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="casino-payments" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1400 900" style="enable-background:new 0 0 1400 900;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#card-form_1_);}
+	.st1{fill:#78BE20;}
+</style>
+<g id="ecopayz_4_">
+	
+		<linearGradient id="card-form_1_" gradientUnits="userSpaceOnUse" x1="700" y1="2415.0078" x2="700" y2="1515.0078" gradientTransform="matrix(1 0 0 1 0 -1515.0078)">
+		<stop  offset="0" style="stop-color:#B3B3B3"/>
+		<stop  offset="0.6582" style="stop-color:#E6E6E6"/>
+	</linearGradient>
+	<path id="card-form_3_" class="st0" d="M1300,900H100C45,900,0,855,0,800V100C0,45,45,0,100,0h1200c55,0,100,45,100,100v700
+		C1400,855,1355,900,1300,900z"/>
+</g>
+<g>
+	<polygon class="st1" points="727.7,239.5 715.5,239.5 715.5,660.5 727.7,660.5 727.7,579.5 881.1,579.5 881.1,530.4 763,530.4 
+		763,473.9 864,473.9 864,424.6 763,424.6 763,370 881.1,370 881.1,320.5 727.7,320.5 	"/>
+	<polygon points="250.1,479.3 206.5,408.8 150.6,321.4 150.1,320.5 103.8,320.5 103.8,579.5 155.2,579.5 155.2,420.3 193.5,482.3 
+		255.1,579.5 301.8,579.5 301.8,320.5 250.1,320.5 	"/>
+	<polygon points="330.7,579.5 500.6,579.5 500.6,530.4 382.5,530.4 382.5,473.9 483.4,473.9 483.4,424.6 382.5,424.6 382.5,370 
+		500.6,370 500.6,320.5 330.7,320.5 	"/>
+	<polygon points="521.4,370.3 580.7,370.3 580.7,579.5 632.4,579.5 632.4,370.3 691.4,370.3 691.4,320.5 521.4,320.5 	"/>
+	<polygon class="st1" points="1053.3,479.7 1009.7,409.2 953.8,321.8 953.3,320.9 907,320.9 907,579.9 958.3,579.9 958.3,420.8 
+		996.6,482.7 1058.3,579.9 1105,579.9 1105,320.9 1053.3,320.9 	"/>
+	<polygon class="st1" points="1126.2,320.9 1126.2,370.7 1185.5,370.7 1185.5,579.9 1237.3,579.9 1237.3,370.7 1296.2,370.7 
+		1296.2,320.9 	"/>
+</g>
+</svg>
